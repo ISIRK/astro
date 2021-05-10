@@ -2,7 +2,7 @@
   
   [![Website](https://img.shields.io/badge/Website-Blue?style=for-the-badge&color=7289DA)](https://asksirk.com/bot)
   
-  [![Discord](https://img.shields.io/discord/743121194911531110?color=7289DA&label=Sirk&logo=Discord&style=for-the-badge)](https://discord.gg/7yZqHfG)
+  [![Discord](https://img.shields.io/badge/Discord-Blue?style=for-the-badge&color=7289DA)](https://discord.gg/7yZqHfG)
   
 &nbsp;
 
@@ -53,18 +53,8 @@ Syntax for Sirk:
 &nbsp;
 
 **Upcomming Features**
-- [x] ~~Custom Prefixes~~
-- [ ] Todo Commands
-- [ ] New website
-- [ ] Optimizations
-
-&nbsp;
-
-**Prerequisites**
-- [Python](https://www.python.org/)
-- [Discord.py](https://discordpy.readthedocs.io/en/latest/index.html)
-- [Discord-ext-Menus](https://github.com/Rapptz/discord-ext-menus)
-- Some other modules for commands
+- Command List
+- Optimizations
 
 &nbsp;
 
