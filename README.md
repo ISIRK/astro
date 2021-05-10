@@ -1,7 +1,6 @@
 # Sirk - Discord Bot
   
   [![Website](https://img.shields.io/badge/Website-Blue?style=for-the-badge&color=7289DA)](https://asksirk.com/bot)
-  
   [![Discord](https://img.shields.io/badge/Discord-Blue?style=for-the-badge&color=7289DA)](https://discord.gg/7yZqHfG)
   
 &nbsp;
