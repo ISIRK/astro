@@ -13,8 +13,6 @@ If you have any questions please either dm isirk#0001 or join our support server
 
 &nbsp;
 
-[Invite Link](https://discord.com/oauth2/authorize?client_id=751447995270168586&permissions=268823638&scope=bot)
-
 [Discord](https://discord.gg/7yZqHfG)
 
 [Website](https://asksirk.com/bot)
